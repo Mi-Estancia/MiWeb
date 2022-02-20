@@ -48,3 +48,21 @@ h1{
     font-size: 35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+#file{
+    width: 100%;
+    background: rgb(173, 93, 93);
+    padding: 50px 500px;
+    cursor: pointer;
+}
+#boton-enviar{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid rgb(252, 205, 205);
+}
+#boton-enviar:hover{
+    background: rgb(226, 156, 64);
+    outline: none;
+    border: none;
+}
