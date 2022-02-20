@@ -1,0 +1,50 @@
+.container-memes{
+    margin: 50px 10px 0 0;
+    padding: 10px;
+    background: rgb(245, 245, 245);
+    overflow-x: scroll;
+}
+body{
+    position: relative;
+}
+.div-cont-meme{
+    display: inline-block;
+}
+.div-cont-meme > img{
+    width: 450px;
+    margin: 10px;
+}
+.div-cont-meme img:hover{
+    opacity: .9;
+    border-bottom: 5px solid red;
+}
+.p-nokia{
+    display: inline-block;
+    margin-bottom: 100px;
+}
+.div-title > img{
+    position: absolute;
+    top: 90px;
+    left: 600px;
+}
+.container-memes,
+.div-title{
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.video-clash{
+    display: block;
+    margin: 0 auto;
+}
+
+
+h1{
+    color: rgb(37, 37, 37);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p-1{
+    color: rgb(37, 37, 37);
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
