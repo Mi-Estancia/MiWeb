@@ -11,7 +11,7 @@ body{
     display: inline-block;
 }
 .div-cont-meme > img{
-    width: 450px;
+    width: 420px;
     margin: 10px;
 }
 .div-cont-meme img:hover{
